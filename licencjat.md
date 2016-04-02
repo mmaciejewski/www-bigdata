@@ -3,7 +3,7 @@
 1. Wilk Tomasz 12.03
 1. Całus Maciej
 1. Miszczykowski Mariusz 12.03
-1. Czerwińska Agnieszka, Maciejewski Michał.
+1. Czerwińska Agnieszka, Maciejewski Michał. [Wspólczesne tworzenie gier na przykladzie Unity i Unreal Engine.](https://github.com/mmaciejewski/Licencjat)
 1. Rafał Krzychowiec. [ChucK](/).
 1. Paweł Ponieważ
 1. Bartłomiej Warężak
